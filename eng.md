@@ -1,3 +1,5 @@
+# Gulp + Browserify: The Everything Post
+
 ## Getting Started
 
 One weekend, I decided to really immerse myself in Grunt and RequireJS. Gotta
@@ -14,7 +16,7 @@ all the fuss was about.
 and trial and error I went through, I've assembled some resources and 
 information I think you'll find helpful in getting started.
 
- **┬─┬ノ( º _ ºノ)** 
+ **┬─┬ノ( º _ ºノ)** 
 
 ### [Gulp + Browserify starter repo][2]
 
@@ -39,7 +41,7 @@ piping a stream a files through different processes makes a lot of sense.
 
 > gulp's use of streams and code-over-configuration makes for a simpler and
 > more intuitive build.
->[- gulpjs.com][8]
+>[- gulpjs.com][8]
 
 Here's what a basic image processing task might look like:
 
@@ -67,7 +69,7 @@ LiveReload like it was no big deal.
 
 > By harnessing the power of node's streams you get fast builds that don't
 > write intermediary files to disk.
->[- gulpjs.com][8]
+>[- gulpjs.com][8]
 
 ### This killer way to break up your gulpfile.js
 
